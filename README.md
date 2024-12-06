@@ -15,6 +15,8 @@ Prêmios têm sim o seu valor, mas que eles não são o único indicador de suce
 Nem todos os prêmios são merecidos e nem todos que merecem ganham prêmios. 
 Então vale mesmo a pena, premiar? 
 
+-Uma Atividade Proa
+
 ## Exercicios:
 
 **1- Quantas Vezes Natalie Portman Foi Indicada ao Oscar?**
